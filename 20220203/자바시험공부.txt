@@ -1,0 +1,9 @@
+1. 데이터 타입과 형변환, 연산자
+2. 기본문장: switch
+2. 클래스 설계
+   (생성자, toString, equals, 제한자등)
+3. 객체생성 : this, super
+4. 다형성 : Overloading, Overriding
+5. 배열, 초기화
+6. API( java.lang, java.util)
+7. 예외처리, abstract class, interface
